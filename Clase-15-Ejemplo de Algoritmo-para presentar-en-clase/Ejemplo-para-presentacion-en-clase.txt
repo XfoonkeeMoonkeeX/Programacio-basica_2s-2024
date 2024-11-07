@@ -1,0 +1,22 @@
+ while True: 
+        print("\nCajero automático")
+        print("1. Consultar saldo")
+        print("2. Depositar dinero")
+        print("3. Retirar dinero")
+        print("4. Salir")
+    
+        opcion = input("Seleccione una opción: ")
+        if opcion == "1":
+            consultar_saldo()
+        elif opcion == "2":
+            depositar_dinero()
+        elif opcion == "3":
+            retirar_dinero()
+        elif opcion == "4":
+            print("Gracias por usar el cajero automático.")
+            break
+        else:
+            print("Opción no válida.")
+
+# Llamar para iniciar el programa
+menu()
