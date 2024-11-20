@@ -49,8 +49,6 @@ El repositorio está organizado de la siguiente manera:
 
 programacion-basica-con-python/ │ ├── clase_01_variables/ │ ├── clase_01_variables.py │ └── README.md │ ├── clase_02_condicionales/ │ ├── clase_02_condicionales.py │ └── README.md │ ├── clase_03_bucles/ │ ├── clase_03_bucles.py │ └── README.md │ ├── clase_04_funciones/ │ ├── clase_04_funciones.py │ └── README.md │ ├── clase_05_listas/ │ ├── clase_05_listas.py │ └── README.md │ ├── clase_06_manejo_archivos/ │ ├── clase_06_manejo_archivos.py │ └── README.md │ └── README.md
 
-markdown
-Copiar código
 
 ## Descripción de las Clases y Contenido
 
